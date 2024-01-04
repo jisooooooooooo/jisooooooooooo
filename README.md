@@ -10,4 +10,4 @@
 # 🐵✨
 <a href="https://blog.naver.com/dlawltn0708" target="_blank"><img src="https://img.shields.io/badge/Blog-black?style=flat&logo=Blogger&logoColor=68BC71"/></a>
 <a href="https://www.instagram.com/ji_soo__78"><img src="https://img.shields.io/badge/Instagram-black?style=flat&logo=Instagram&logoColor=E4405F"/></a>
-<a href="[https://www.instagram.com/ji_soo__78](https://jisoo78.tistory.com/)"><img src="https://img.shields.io/badge/Tistory-black?style=flat&logo=Tistory&logoColor=#EC4815"/></a>
+<a href="https://jisoo78.tistory.com/"><img src="https://img.shields.io/badge/Tistory-black?style=flat&logo=Tistory&logoColor=#EC4815"/></a>
