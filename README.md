@@ -2,7 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=F5F5DC&height=300&section=header&text=JISOO&fontSize=90&&fontColor=964B00&fontAlign=80&fontAlignY=20&rotate=20&animation=twinkling)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jisooooooooooo&layout=compact)
 
 <br/>
 <br/>
