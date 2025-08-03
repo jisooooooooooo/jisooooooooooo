@@ -5,7 +5,10 @@
 
 <br/>
 
-# 🐵🍌🐵🍌🐵🍌🐵🍌🐵🍌🐵🍌🐵🍌
-<a href="https://jisoo78.tistory.com/"><img src="https://img.shields.io/badge/Tistory-black?style=flat&logo=Tistory&logoColor=#EC4815"/></a>
-<a href="https://www.instagram.com/ji_soo__78"><img src="https://img.shields.io/badge/Instagram-black?style=flat&logo=Instagram&logoColor=E4405F"/></a>
-
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jisooooooooooo&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/jisooooooooooo"
+  width="600"
+  height="300"
+/>
+</a>
